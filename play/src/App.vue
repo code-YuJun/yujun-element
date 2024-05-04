@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <Button />
+  <div>
+    组件测试
+  </div>
 </template>
-
-<style scoped>
-
-</style>

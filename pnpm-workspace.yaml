@@ -1,2 +1,4 @@
 packages:
-  - "packages/*"
+  - play # 组件预览
+  - docs # 组件文档
+  - "packages/**" # packages 目录下都是包
