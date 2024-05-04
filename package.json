@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"pnpm --filter @yujun-element/play dev"
+    "dev":"pnpm --filter @yujun-element/play dev",
+    "docs:dev":"pnpm --filter @yujun-element/docs dev",
+    "docs:build":"pnpm --filter @yujun-element/docs build"
   },
   "keywords": [],
   "author": "",
