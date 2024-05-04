@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "YuJun-Element",
   description: "组件合集",
+  base:"/yujun-element/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
