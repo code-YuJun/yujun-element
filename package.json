@@ -19,7 +19,15 @@
   "license": "ISC",
   "dependencies": {
     "@yujun-element/components": "workspace:^",
+    "@yujun-element/hooks": "workspace:^",
+    "@yujun-element/theme": "workspace:^",
+    "@yujun-element/utils": "workspace:^",
+    "lodash-es": "^4.17.21",
     "typescript": "^5.2.2",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "yujun-element": "workspace:^"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12"
   }
 }
