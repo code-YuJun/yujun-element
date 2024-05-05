@@ -1,25 +1,19 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "YuJun-Element"
   text: "组件合集"
-  tagline: My great project tagline
+  tagline: 基于 Vue3 + TS 开发的组件库
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始使用
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 通用组件
+    details: 学习通用组件封装
+  - title: 业务组件
+    details: 工作中的业务组件封装
 ---
 

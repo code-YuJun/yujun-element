@@ -1,14 +1,11 @@
 {
   "name": "docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "组件合集文档",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "build": "vitepress build"
   },
   "keywords": [],
   "author": "",
