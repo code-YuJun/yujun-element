@@ -62,6 +62,9 @@ importers:
       vue:
         specifier: ^3.4.21
         version: 3.4.26(typescript@5.4.5)
+      yujun-element:
+        specifier: workspace:^
+        version: link:../packages/core
     devDependencies:
       '@vitejs/plugin-vue':
         specifier: ^5.0.4
