@@ -4,8 +4,10 @@
   </div>
 </template>
 <script setup lang="ts">
-import { showToast } from '@yujun-element/components/Toast/index'
+import { showMessage } from '@yujun-element/components/Message/index'
 function handleClick() {
-  showToast('消息')
+  showMessage('消息出现',{
+    duration:1500
+  })
 }
 </script>
