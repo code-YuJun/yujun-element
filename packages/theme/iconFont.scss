@@ -1,0 +1,8 @@
+@use 'mixins/mixins.scss' as *;
+
+@include b(iconFont){
+    vertical-align: middle;
+    display: inline-block;
+    height:1em;
+    width:1em;
+}

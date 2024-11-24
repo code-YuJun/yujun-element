@@ -1,5 +1,6 @@
 import {
-    ElButton
+    ElButton,
+    IconFont
 } from '@yujun-element/components'
 
-export default [ElButton]
+export default [ElButton,IconFont]

@@ -28,6 +28,8 @@
     "yujun-element": "workspace:^"
   },
   "devDependencies": {
-    "@types/lodash-es": "^4.17.12"
+    "@types/lodash-es": "^4.17.12",
+    "sass": "^1.81.0",
+    "unplugin-vue-define-options": "^1.5.2"
   }
 }
